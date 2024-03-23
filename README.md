@@ -8,3 +8,6 @@ This is a simple telegram bot for calculation profits, total capitalization and 
 4. Execute the start.bat batch script - it will start the telegram bot and connect to the Telegram API
 
 ## You're free to start your calculations!
+
+### Bot example:
+![Screenshot_11](https://github.com/digitaleinc/Deposit-Calculation-Bot/assets/120760764/720ca293-1d88-42ea-8632-6cf6b40d5a90)
